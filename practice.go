@@ -13,4 +13,6 @@ func main(){
 	fmt.Println(p) //variable 
 	fmt.Println(&p)//address
 
+	// start from pointers
+
 }
