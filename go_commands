@@ -1,0 +1,7 @@
+// To format code into go lang.
+go fmt file_name.go
+go fmt ./.. (for all file of directory)
+
+// To make an executable file.
+go build
+./executable_file_name (for execution of executable file)
