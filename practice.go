@@ -14,6 +14,11 @@ func main() {
 	fmt.Println(p)  //variable
 	fmt.Println(&p) //address
 
-	// start from pointers
+	//This is declare and assign
+	a := 10
+
+	//This is assign only
+	a = 10
+
 
 }
