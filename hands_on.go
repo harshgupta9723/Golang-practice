@@ -66,6 +66,6 @@ func main() {
 	//In this a variable is decraled with type int or string, and then another variable can be assign with same data type.
 	hands_on_4()
 
-	//type casting
+	//type casting 
 	hands_on_5()
 }
