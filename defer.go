@@ -8,7 +8,6 @@ func explainDefer() {
 	defer fmt.Println("second_0")
 	defer fmt.Println("second_1")
 	defer fmt.Println("second_2")
-	defer fmt.Println("second_3")
 	fmt.Println("first_0")
 	fmt.Println("first_1")
 	fmt.Println("first_2")
@@ -24,7 +23,6 @@ func main() {
 // first_1
 // first_2
 // first_3
-// second_3
 // second_2
 // second_1
 // second_0
